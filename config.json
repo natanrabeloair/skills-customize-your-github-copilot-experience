@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "pandas-data-cleaning",
+      "title": "Data Cleaning with pandas",
+      "description": "Use pandas to load, clean, and summarize a student performance dataset.",
+      "path": "assignments/pandas-data-cleaning",
+      "dueDate": "2026-10-15",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Dataset",
+          "file": "data.csv",
+          "type": "csv"
+        }
+      ]
     }
   ]
 }

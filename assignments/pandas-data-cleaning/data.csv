@@ -1,0 +1,8 @@
+student_id,name,age,score,city
+S001,Alice,17,88,London
+S002,Bob,,92,Paris
+S002,Bob,16,92,Paris
+S003,Charlie,abc,85,London
+S004,Diana,16,95,Paris
+S005,Ethan,17,,London
+S006,Fiona,18,90,London
